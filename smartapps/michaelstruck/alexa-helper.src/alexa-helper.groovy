@@ -50,7 +50,7 @@ definition(
     namespace: "MichaelStruck",
     author: "Michael Struck",
     description: "Allows for various SmartThings devices to be tied to switches controlled by Amazon Echo('Alexa').",
-    category: "My Apps",
+    category: "Safety & Security",
     iconUrl: "https://raw.githubusercontent.com/MichaelStruck/SmartThingsPublic/master/smartapps/michaelstruck/alexa-helper.src/Alexa.png",
     iconX2Url: "https://raw.githubusercontent.com/MichaelStruck/SmartThingsPublic/master/smartapps/michaelstruck/alexa-helper.src/Alexa@2x.png",
     iconX3Url: "https://raw.githubusercontent.com/MichaelStruck/SmartThingsPublic/master/smartapps/michaelstruck/alexa-helper.src/Alexa@2x.png")
